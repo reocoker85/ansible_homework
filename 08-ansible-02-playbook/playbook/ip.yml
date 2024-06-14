@@ -1,0 +1,5 @@
+- hosts: clickhouse
+  tasks:
+  - name: Show host's ip
+    ansible.builtin.debug:
+      var: ansible_facts
