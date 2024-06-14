@@ -58,9 +58,9 @@
 ### Требования
 ---
 
-### Ansible2.17
-### Python3.10
-### Fedora37 (Vm's OS)
+#### Ansible2.17
+#### Python3.10
+#### Fedora37 (Vm's OS)
 
 ### Установка
 ---
