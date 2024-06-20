@@ -73,6 +73,6 @@
    ---
      - src: git@github.com:AlexeySetevoi/ansible-clickhouse.git
        scm: git
-       version: "master"      ### 1.13 на ОС Fedora 37 завливалась на проверки ключей.
+       version: "master"      ### 1.13 на ОС Fedora 37 завливалась на проверке ключей.
        name: clickhouse 
    ```
