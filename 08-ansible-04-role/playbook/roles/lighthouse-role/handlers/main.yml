@@ -1,0 +1,5 @@
+---
+- name: Reload nginx
+  ansible.builtin.command: nginx -s reload
+  register: output3
+  changed_when: output3.rc != 0
