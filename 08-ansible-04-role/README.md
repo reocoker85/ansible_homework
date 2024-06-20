@@ -66,3 +66,13 @@
 - [Vector-role](https://github.com/reocoker85/vector-role.git)
 - [Lighthouse-role](https://github.com/reocoker85/lighthose-role.git)
 - [Nginx-role](https://github.com/reocoker85/nginx-role.git)
+
+Примечание:
+Роль clickhouse , предлагаемая к использованию в дз , нормально отработала , только после изменения версии.
+ ```yaml
+   ---
+     - src: git@github.com:AlexeySetevoi/ansible-clickhouse.git
+       scm: git
+       version: "master"      ### 1.13 на ОС Fedora 37 завливалась на проверки ключей.
+       name: clickhouse 
+   ```
