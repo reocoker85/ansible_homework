@@ -37,7 +37,13 @@
 ### Решение Molecule
 
 ![1.png](./img/1.png)
+
+Проверка дефолтной роли:
+
 ![2.png](./img/2.png)
+
+Проверка vector-role с  verify.yml:
+
 ![3.png](./img/3.png)
 
 [Vector_role_v1.0.1](https://github.com/reocoker85/vector-role/tree/v1.0.1)
