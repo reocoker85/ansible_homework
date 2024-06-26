@@ -46,15 +46,20 @@
 
 ![3.png](./img/3.png)
 
+Рабочий сценарий:
+
 [Vector_role_v1.0.1](https://github.com/reocoker85/vector-role/tree/v1.0.1)
 
 ### Решение Tox
 
 ![4.png](./img/4.png)
+
+Просле всех проделанных изменений запускаем команду `tox` и  видим, что всё отработало успешно.
+
 ![5.png](./img/5.png)
 ![6.png](./img/6.png)
 ![7.png](./img/7.png)
 
-
+Рабочий сценарий:
 
 [Vector_role_v1.0.2](https://github.com/reocoker85/vector-role/tree/v1.0.2)
